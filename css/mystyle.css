@@ -30,6 +30,11 @@ body
     max-width: 100%;
     height: auto;	
 }
+#About .media
+{
+	width: 250px;
+	height: 250px;
+}
 
 #About span
 {
@@ -54,6 +59,20 @@ body
 }
 
 #Resume hr
+{
+	border-width: 2px;
+	margin-top: 6px;
+}
+
+#SignUp span
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left:20px;
+	padding-right: 20px;
+}
+
+#SignUp hr
 {
 	border-width: 2px;
 	margin-top: 6px;
